@@ -124,5 +124,6 @@
     <Build Include="Security\ToposCreativeUser.sql" />
     <Build Include="Security\ToposCreativeLogin.sql" />
     <Build Include="Security\RoleMemberships.sql" />
+    <Build Include="CreateTimeCardTable.sql" />
   </ItemGroup>
 </Project>
